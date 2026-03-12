@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Vuyo Dziba 👋</h1>
-<h3 align="center">🚀 2nd Year IT Student | Cloud & Cybersecurity Enthusiast | Belgium Campus iTversity</h3>
+<h3 align="center">🚀 3rd Year IT Student | Cloud & Cybersecurity Enthusiast | Belgium Campus iTversity</h3>
 
 <!-- Badges -->
 <p align="center">
