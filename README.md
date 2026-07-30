@@ -1,151 +1,267 @@
-<!-- Profile Header -->
+<!-- ========================= -->
+
+<!--         HEADER            -->
+
+<!-- ========================= -->
+
 <h1 align="center">Hi 👋, I'm Vuyo Dziba</h1>
-<h3 align="center">🔐 Cybersecurity & Cloud Computing Student | Belgium Campus iTversity</h3>
+
+<h3 align="center">
+Cybersecurity • Cloud Computing • Ethical Hacking
+</h3>
+
 <p align="center">
-Aspiring Cybersecurity Intern passionate about Ethical Hacking, Penetration Testing, and Cloud Security.
+🎓 3rd Year Information Technology Student at <b>Belgium Campus iTversity</b><br>
+🛡️ Aspiring Cybersecurity Analyst | Penetration Tester | Cloud Security Enthusiast
+</p>
+
+<p align="center">
+<a href="mailto:innocentiadziba@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vuyo-dziba-5a815b36a">
+<img src="https://img.shields.io/badge/LinkedIn-Vuyo%20Dziba-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
-🎓 3rd Year Diploma in Information Technology student at **Belgium Campus iTversity** (Academic average: 75%)
-🔐 Specialising in **Cybersecurity, Cloud Computing, and Networking**
-🛡️ Completed a **16-week Virtual Cybersecurity Internship** in Web Application Security, testing against the **OWASP Top 10**
-☁️ Interested in **Cloud Security and Infrastructure Protection**
-💻 Building hands-on labs in **Active Directory security, network penetration testing, and password/hash analysis**
-📍 Based in Pretoria, South Africa — currently seeking a **Cybersecurity Internship**
+# 👨‍💻 About Me
+
+I'm an Information Technology student specialising in **Cybersecurity** and **Cloud Computing**, passionate about identifying security weaknesses before attackers do.
+
+I enjoy building practical security labs that simulate real-world environments, including **Active Directory**, **web application testing**, **network security**, and **cloud infrastructure**.
+
+### 🎯 Currently
+
+* 🎓 3rd Year Diploma in Information Technology
+* 📊 Academic Average: **75%**
+* 🔐 Seeking a **Cybersecurity Internship**
+* 🌍 Based in Pretoria, South Africa
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-**Virtual Cybersecurity Intern — MWR Cybersec (2026)**
-* Completed a 16-week virtual internship in Web Application Security using industry-standard testing methodologies.
-* Identified and analysed vulnerabilities across all 10 OWASP Top 10 categories, including Broken Access Control, SQL Injection, Cryptographic Failures, and SSRF.
-* Used security testing tools to validate vulnerabilities and produce remediation recommendations.
-* Completed a capstone project demonstrating applied web application security skills.
+## Virtual Cybersecurity Intern — MWR Cybersec (2026)
+
+Completed a **16-week Web Application Security internship** focused on practical penetration testing and secure software assessment.
+
+### Highlights
+
+* Tested applications against the **OWASP Top 10**
+* Investigated SQL Injection, XSS, Broken Access Control, SSRF and Cryptographic Failures
+* Produced vulnerability reports with remediation recommendations
+* Completed a capstone security assessment project
 
 ---
 
-## 🧠 Technical Skills
+# 🛠 Technical Skills
 
-### 🔐 Cybersecurity & Networking
-* Ethical Hacking Fundamentals
-* Vulnerability Assessment & Penetration Testing
-* Active Directory Enumeration & Hardening
-* Firewalls, VPNs & Intrusion Detection Systems (IDS)
-* Password/Hash Cracking & Analysis
-* TCP/IP, DNS, DHCP
+## Cybersecurity
 
-### 💻 Programming
+* Vulnerability Assessment
+* Penetration Testing
+* Web Application Security
+* Active Directory Security
+* Network Security
+* Password & Hash Analysis
+* Firewalls
+* VPN Technologies
+* Intrusion Detection Systems
+
+## Networking
+
+* TCP/IP
+* DNS
+* DHCP
+* Routing & Switching
+* Network Troubleshooting
+
+## Cloud & Systems
+
+* Cloud Computing Fundamentals
+* Windows Server
+* Active Directory
+* Linux Administration
+* Virtualisation
+* Docker
+
+## Programming
+
 * Python
 * JavaScript
 * C#
-* HTML & CSS
-
-### ☁️ Cloud & Systems
-* Cloud Computing Concepts
-* Windows Server & Active Directory
-* Linux Administration
-* Virtualisation & Virtual Machines
+* HTML
+* CSS
 
 ---
 
-## 🛠 Tools & Technologies
+# ⚙️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,js,cs,html,css,docker,git,github,linux"/>
+
+</p>
+
+**Security Tools**
+
 * Kali Linux
-* Nmap
-* Wireshark
 * Burp Suite
+* Wireshark
+* Nmap
 * Metasploit
 * Hashcat
 * John the Ripper
-* Snort / Suricata
+* Snort
+* Suricata
 * OpenVPN
-* Docker
 * Cisco Packet Tracer
-* Git & GitHub
 
 ---
 
-## 📂 Cybersecurity Projects
+# 🚀 Featured Projects
 
-🔎 **Enterprise Network Security Implementation**
-* Configured packet-filtering firewalls (iptables/Windows Firewall) to control SSH, HTTP, and ICMP traffic; enabled logging and analysed traffic for unauthorised access attempts.
-* Set up a site-to-site VPN using OpenVPN between two virtual networks.
-* Deployed an open-source IDS (Snort/Suricata) to monitor traffic, generate alerts, and produce an incident report.
-* Conducted a wireless network security assessment, identifying weak encryption and default credential risks.
+## 🔐 Enterprise Network Security Lab
 
-🔎 **Active Directory Security Lab**
-* Built and configured a Windows Server AD lab (Domain Controller, users, groups, GPOs) in a virtualised environment.
-* Practiced AD enumeration, privilege escalation, and credential-harvesting techniques; implemented hardening against common misconfigurations.
+Designed and secured a virtual enterprise network by implementing:
 
-🔎 **Network & Web Application Penetration Testing**
-* Conducted network discovery and enumeration with Nmap.
-* Tested web applications for SQL Injection, XSS, and input validation flaws using Burp Suite.
-* Studied buffer overflow vulnerabilities and simulated DDoS traffic to understand exploitation and mitigation.
-
-🔎 **Password Security & Hash Analysis Lab**
-* Cracked password hashes using Hashcat and John the Ripper (dictionary, brute-force, rule-based attacks).
-* Analysed MD5, SHA-1, and SHA-256 algorithms and the impact of password complexity and salting.
-
-🤖 **BC CourseFinder™ — AI Career Guidance Agent**
-* Co-designed and built an AI-powered career guidance chatbot for Matric students using Firebase Studio, combining rule-based and conversational AI.
-* Engineered prompts and scope-control guardrails for accurate, age-appropriate responses.
-* Delivered a demo deployment accessible via QR code.
-
-🏠 **IoT-Based Smart Home Security System**
-* Designed a smart home security concept applying IoT principles — sensors, alerts, and monitoring — with a focus on associated security risks.
-
-🎮 **Educational Web Games**
-* Built interactive educational games using HTML, CSS, and JavaScript.
-
-More projects coming soon as part of my cybersecurity learning journey.
+* Firewall rules
+* OpenVPN site-to-site VPN
+* Snort/Suricata IDS
+* Traffic monitoring
+* Incident reporting
+* Wireless security assessment
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vuyodziba&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuyodziba&theme=radical" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuyodziba&layout=compact&theme=radical" />
-</p>
+## 🖥 Active Directory Security Lab
+
+Built a complete Active Directory environment including:
+
+* Domain Controller
+* Users & Groups
+* Group Policy
+* AD Enumeration
+* Privilege Escalation Practice
+* Security Hardening
 
 ---
 
-## 📜 Certifications & Learning
-* MWR Cybersec — Web Application Security Virtual Internship (2026)
-* Cisco Networking Academy — Ethical Hacker (2026)
-* Microsoft — AI Fluency Course (2025)
-* Belgium Campus iTversity — Agentic Automation Masterclass (2025)
-* Belgium Campus iTversity — A Glimpse into ERP Masterclass (2025)
+## 🌐 Network & Web Penetration Testing
 
-## 📚 Current Learning Focus
+Performed practical assessments using:
+
+* Nmap Enumeration
+* Burp Suite
+* SQL Injection Testing
+* Cross-Site Scripting
+* Input Validation Testing
+* Buffer Overflow Research
+
+---
+
+## 🔑 Password Security Lab
+
+Explored password security through:
+
+* Hashcat
+* John the Ripper
+* Dictionary Attacks
+* Rule-Based Attacks
+* Brute Force Testing
+* Hash Algorithm Analysis
+
+---
+
+## 🤖 BC CourseFinder™
+
+AI-powered career guidance chatbot built for prospective students.
+
+Features include:
+
+* Conversational AI
+* Prompt Engineering
+* Firebase Studio
+* Scope Guardrails
+* QR Code Deployment
+
+---
+
+## 🏠 IoT Smart Home Security
+
+Designed an IoT-based smart home security system with emphasis on:
+
+* Monitoring
+* Threat Detection
+* Sensors
+* Security Risks
+* Alerting
+
+---
+
+# 📚 Certifications
+
+* ✅ MWR Cybersec — Web Application Security Virtual Internship (2026)
+* ✅ Cisco Networking Academy — Ethical Hacker (2026)
+* ✅ Microsoft — AI Fluency (2025)
+* ✅ Belgium Campus — Agentic Automation Masterclass (2025)
+* ✅ Belgium Campus — ERP Masterclass (2025)
+
+---
+
+# 📖 Currently Learning
+
 * Cloud Security
-* Ethical Hacking Techniques
-* Active Directory & Network Security
-* Web Application Security
+* Microsoft Azure Security
+* Active Directory Security
+* Web Application Penetration Testing
 * Security Automation with Python
+* Detection Engineering
 
 ---
 
-## 🔗 Connect With Me
-<p align="left">
-  <a href="mailto:innocentiadziba@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vuyo-dziba-5a815b36a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vuyodziba&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vuyodziba&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuyodziba&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 💡 Career Goal
-To become a **Cybersecurity Specialist / Penetration Tester** focused on protecting systems and identifying vulnerabilities before attackers exploit them.
+# 🎯 Career Goal
+
+My goal is to become a **Cybersecurity Specialist** focused on offensive security, cloud security, and helping organisations strengthen their security posture through ethical hacking and defensive security practices.
+
+I believe the best way to learn security is by **building, breaking, fixing, and documenting**.
 
 ---
 
-> 🔐 *"Securing the digital future, one vulnerability at a time."*
-> — **Vuyo Dziba**
+# 📫 Let's Connect
+
+📧 **Email:** [innocentiadziba@gmail.com](mailto:innocentiadziba@gmail.com)
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/vuyo-dziba-5a815b36a
+
+---
+
+<p align="center">
+
+> *"Securing the digital future, one vulnerability at a time."*
+
+**— Vuyo Dziba**
+
+</p>
